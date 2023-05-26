@@ -1,0 +1,26 @@
+[
+    {
+        "customer_id":"1",
+        "customer_name": "Rasel Mahmud",
+        "customer_description": "I've been a foodie all my life, but it wasn't until I tried this dish that I truly experienced culinary bliss. Every bite was a symphony of flavors and textures, from the savory spices to the tender meat and perfectly cooked vegetables. It was clear that the chef put a lot of thought and care into every ingredient and preparation method. This dish was more than just food.",
+        "customer_rating": 4.9,
+        "customer_location": "Dhaka Bangladesh",
+        "customer_img": "https://i.ibb.co/vx4xWfq/happy-Customer.jpg"
+    },
+    {
+        "customer_id":"2",
+        "customer_name": "Jinai Alam Nodi",
+        "customer_description": "I've been a foodie all my life, but it wasn't until I tried this dish that I truly experienced culinary bliss. Every bite was a symphony of flavors and textures, from the savory spices to the tender meat and perfectly cooked vegetables. It was clear that the chef put a lot of thought and care into every ingredient and preparation method. This dish was more than just food.",
+        "customer_rating": 4.7,
+        "customer_location": "Dhaka Bangladesh",
+        "customer_img": "https://i.ibb.co/w47NbYX/happy-Customer1.jpg"
+    },
+    {
+        "customer_id":"3",
+        "customer_name": "Rakibul Islam",
+        "customer_description": "I've been a foodie all my life, but it wasn't until I tried this dish that I truly experienced culinary bliss. Every bite was a symphony of flavors and textures, from the savory spices to the tender meat and perfectly cooked vegetables. It was clear that the chef put a lot of thought and care into every ingredient and preparation method. This dish was more than just food.",
+        "customer_rating": 4.5,
+        "customer_location": "Dhaka Bangladesh",
+        "customer_img": "https://i.ibb.co/16GX9ks/happy-Customer2.jpg"
+    }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "chef_id": 1,
+    "chef_picture": "https://i.ibb.co/ZSKxPjx/chef1.png",
+    "chef_name": "MD. Rassel",
+    "years_of_experience": 10,
+    "number_of_recipes": 5,
+    "likes": 1000,
+    "description": "MD. Rassel is a talented Bangladeshi chef with a passion for creating delicious and innovative recipes. With over 10 years of experience in the culinary industry, he has honed his skills and developed a unique cooking style that combines traditional Bengali flavors with modern techniques. His recipes are loved by many, and he has gained a large following on social media thanks to his engaging personality and creative content."
+  },
+  {
+    "chef_id": 2,
+    "chef_picture": "https://i.ibb.co/4VJf5vJ/chef2.png",
+    "chef_name": "Robiul Islam",
+    "years_of_experience": 5,
+    "number_of_recipes": 3,
+    "likes": 500,
+    "description": "Robiul Islam is an award-winning Bangladeshi chef with over 20 years of experience in the culinary industry. He specializes in seafood dishes and is known for his signature chingri malai curry. Nazrul has worked in top restaurants across Bangladesh and has won multiple awards for his cooking, including Best Seafood Restaurant and Top Chef Award. He currently owns and operates two popular seafood restaurants in Dhaka, The Fishermen's Table and Seafood Delight."
+  },
+  {
+    "chef_id": 3,
+    "chef_picture": "https://i.ibb.co/ctp525M/chef3.png",
+    "chef_name": "Rafsan Ahmed",
+    "years_of_experience": 15,
+    "number_of_recipes": 4,
+    "likes": 2000,
+    "description": "Rafsan Ahmed is a talented Bangladeshi chef with over 15 years of experience in the culinary industry. She specializes in vegetarian cuisine and is known for her signature dish, begun bhaja, a crispy eggplant fritter. Shaheda has worked in top vegetarian restaurants across Bangladesh and has won multiple awards for her cooking, including Best Vegetarian Restaurant and Plant-based Chef of the Year. She currently owns and operates two popular vegetarian restaurants in Dhaka, Green Leaf Vegetarian and Spice Garden."
+  },
+  {
+    "chef_id": 4,
+    "chef_picture": "https://i.ibb.co/LCLQY7f/chef4.png",
+    "chef_name": "Zamir Hasan",
+    "years_of_experience": 8,
+    "number_of_recipes": 5,
+    "likes": 800,
+    "description": "Zamir Hasan is a rising star in the Bangladeshi culinary scene with 8 years of experience in the industry. He is known for his creative and contemporary take on traditional Bangladeshi dishes. With a focus on fresh, locally-sourced ingredients and bold flavors, Zamir's cooking has earned him a growing following and critical acclaim. He has been featured in several food publications and has been invited to cook at events and festivals across Bangladesh. Zamir is passionate about sharing his love of Bangladeshi cuisine with a wider audience and is always experimenting with new recipes and techniques."
+  },
+  {
+    "chef_id": 5,
+    "chef_picture": "https://i.ibb.co/HT82gDP/chef5.png",
+    "chef_name": "Sadia Jahan",
+    "years_of_experience": 12,
+    "number_of_recipes": 3,
+    "likes": 1500,
+    "description": "Sadia Jahan is a well-known Bangladeshi chef with over 12 years of experience in the culinary industry. She specializes in traditional Bangladeshi cuisine, with a focus on homestyle cooking and using fresh, locally-sourced ingredients. Sadia is passionate about preserving and promoting the rich culinary heritage of Bangladesh, and her cooking is beloved by locals and visitors alike. She has published several cookbooks and has been invited to give cooking demonstrations and workshops across the country. Sadia is dedicated to inspiring the next generation of chefs and is actively involved in training and mentoring young cooks."
+  },
+  {
+    "chef_id": 6,
+    "chef_picture": "https://i.ibb.co/BBk53sJ/chef6.png",
+    "chef_name": "Jinia Alam",
+    "years_of_experience": 3,
+    "number_of_recipes": 4,
+    "likes": 100,
+    "description": "Jinia Alam is a young and ambitious Bangladeshi chef with 3 years of experience in the culinary industry. She specializes in fusion cuisine, combining elements of traditional Bangladeshi dishes with flavors and techniques from around the world. Jinia is always experimenting with new ingredients and cooking methods, and her creative and innovative approach to cooking has earned her a small but dedicated following. She is a firm believer in using fresh, seasonal ingredients and supporting local farmers and producers. Jinia is passionate about promoting Bangladeshi cuisine on a global stage and hopes to one day open her own restaurant."
+  }
+]
