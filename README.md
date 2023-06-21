@@ -1,1 +1,1 @@
-# b7a10-chef-recipe-hunter-server-side-KakonDebnath
+# Firebase live site [Link](https://chef-recipe-project.web.app/)
